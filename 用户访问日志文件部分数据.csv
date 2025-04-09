@@ -1,1 +1,11 @@
-
+日期,城市,姓名,性别,年龄,编程语言
+2021-9-1,北京,lijun,male,21,Java
+2021-9-1,北京,linhong,female,20,Python
+2021-9-1,长沙,libai,male,27,C++
+2021-9-1,武汉,hujun,male,24,Java
+2021-9-1,上海,libo,male,29,Python
+2021-9-1,长沙,zouwei,male,23,Spark
+2021-9-1,武汉,xiaolin,female,29,Java
+2021-9-1,北京,liuhong,female,20,Python
+2021-9-2,北京,liuqian,female,21,Python
+2021-9-2,北京,daiming,male,24,Spark
