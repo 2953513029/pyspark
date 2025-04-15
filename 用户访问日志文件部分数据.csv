@@ -387,7 +387,7 @@
 2021-10-25,成都,陈军,male,33,PHP
 2021-10-12,上海,周娜,female,30,Java
 2021-09-20,苏州,吴慧,female,31,TypeScript
-2021-10-13,苏州,李磊,male,40,Java
+2021-10-13,苏州,李磊,male,,Java
 2021-10-16,杭州,王丽,female,30,Swift
 2021-10-23,成都,王静,female,36,C++
 2021-10-10,深圳,陈伟,male,29,Python
@@ -564,7 +564,7 @@
 2021-10-08,长沙,杨艳,female,42,JavaScript
 2021-09-15,西安,黄慧,female,38,Kotlin
 2021-10-24,杭州,张伟,male,26,Python
-2021-10-06,西安,王艳,female,39,TypeScript
+2021-10-06,西安,王艳,female,,TypeScript
 2021-09-12,武汉,黄芳,female,18,Python
 2021-09-05,成都,黄敏,female,29,Kotlin
 2021-10-05,南京,刘强,male,33,TypeScript
@@ -713,7 +713,7 @@
 2021-09-14,北京,张峰,male,22,TypeScript
 2021-10-22,广州,王强,male,41,Ruby
 2021-09-01,重庆,王明,male,30,Java
-2021-10-07,北京,黄磊,male,24,Go
+2021-10-07,北京,黄磊,male,,Go
 2021-10-30,天津,刘军,male,32,PHP
 2021-10-10,长沙,刘超,male,42,C++
 2021-09-27,成都,杨洋,male,43,C++
@@ -758,8 +758,8 @@
 2021-09-20,南京,陈玲,female,44,JavaScript
 2021-09-22,天津,李强,male,20,Go
 2021-10-10,长沙,杨涛,male,22,Python
-2021-10-15,杭州,黄超,male,34,Kotlin
-2021-10-22,苏州,黄芳,female,31,Kotlin
+2021-10-15,杭州,黄超,male,,Kotlin
+2021-10-22,苏州,黄芳,female,,Kotlin
 2021-10-15,南京,李玲,female,40,JavaScript
 2021-09-24,杭州,李敏,female,36,Ruby
 2021-09-21,西安,王明,male,23,Ruby
@@ -828,7 +828,7 @@
 2021-10-03,成都,赵伟,male,23,JavaScript
 2021-09-04,深圳,赵勇,male,27,Swift
 2021-09-14,成都,杨勇,male,45,Ruby
-2021-09-06,重庆,赵静,female,21,Rust
+2021-09-06,重庆,赵静,female,,Rust
 2021-09-06,广州,李婷,female,41,Rust
 2021-09-19,武汉,李玲,female,44,TypeScript
 2021-09-11,长沙,张芳,female,37,Rust
@@ -926,7 +926,7 @@
 2021-09-01,深圳,王涛,male,25,PHP
 2021-10-25,苏州,刘敏,female,21,Kotlin
 2021-09-06,武汉,刘芳,female,33,C++
-2021-10-29,北京,赵丽,female,28,Go
+2021-10-29,北京,赵丽,female,,Go
 2021-09-29,上海,张艳,female,39,PHP
 2021-09-22,南京,吴玲,female,34,Ruby
 2021-09-05,西安,黄艳,female,45,Ruby
@@ -954,7 +954,7 @@
 2021-09-02,天津,张明,male,23,Rust
 2021-09-27,武汉,杨静,female,38,Go
 2021-09-27,上海,张涛,male,39,Python
-2021-09-22,武汉,黄洋,male,39,Python
+2021-09-22,武汉,黄洋,male,,Python
 2021-09-08,重庆,赵勇,male,37,Ruby
 2021-09-14,苏州,张强,male,31,PHP
 2021-10-03,深圳,黄强,male,38,JavaScript
